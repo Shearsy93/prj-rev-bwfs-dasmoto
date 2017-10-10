@@ -31,7 +31,7 @@ span {
   background-color: skyblue;
 }
 
-#brushes h2, #frames h2, #paint h2{
+h2 {
   font-size: 32px;
   font-weight: bold;
   color: white;
